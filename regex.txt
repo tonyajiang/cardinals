@@ -1,0 +1,5 @@
+(1) "hello world" OR "\bhello world\b" (\\b if we were doing it in python but doesn't work in Regexpal)
+
+(2) "\w*[aeiou]{3}\w*"
+
+(3) "\b[A-Z]{2}\d{3,4}\b"
